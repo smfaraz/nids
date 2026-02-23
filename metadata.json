@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel NIDS",
+  "description": "Real-time Network Intrusion Detection System with simulated packet analysis, anomaly detection, and security dashboard.",
+  "requestFramePermissions": []
+}
